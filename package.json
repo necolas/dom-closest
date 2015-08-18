@@ -1,12 +1,12 @@
 {
   "name": "dom-closest",
   "description": "For a given DOM element, find the first ancestor that matches a given CSS selector.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "dom-matches": "^1.0.1"
+    "dom-matches": ">=1.0.1"
   },
   "devDependencies": {
     "karma": "^0.12.21",
